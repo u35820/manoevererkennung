@@ -1,8 +1,8 @@
 # Manoevererkennung ausführen
 
-Um die Datei Manöverkennung.ipynb auszuführen zu können müssen die unterschiedlichen
+Um die Datei Manöverkennung.ipynb auszuführen zu können, müssen die unterschiedlichen
 Drives von http://www.cvlibs.net/datasets/kitti/raw_data.php heruntergeladen werden
-und zusammen mit der loadkittidata.py Datei in einen Ordner gepackt werden.
+und zusammen mit der loadkittidata.py Datei in einer gemeinsamen Ordnerstruktur abgelegt werden.
 
 Außerdem ist der Dateipfad in der Datei Manövererkennung.ipynb im ersten Feld 
 anzupassen der eigenen Ordnerstruktur.
