@@ -8,11 +8,11 @@ Außerdem ist der Dateipfad in der Datei Manövererkennung.ipynb im ersten Feld
 anzupassen der eigenen Ordnerstruktur.
 
 Folgende Packages sind notwendig um das Projekt ausführen zu können:
--numpy
--matplotlib
--pandas
--sklearn
--kneed
--IPython
--dtaidistance
+numpy, 
+matplotlib, 
+pandas, 
+sklearn, 
+kneed, 
+IPython, 
+dtaidistance
 
